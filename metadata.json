@@ -1,0 +1,8 @@
+{
+  "name": "ACE Gestão Financeira",
+  "description": "Landing page de alta conversão para a ACE Gestão Financeira. Gestão financeira inteligente e integrada no Brasil e EUA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
